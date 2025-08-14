@@ -133,9 +133,8 @@ Anda dapat menggunakan akun default di bawah ini untuk masuk ke sistem setelah i
 | **admin** | **admin** | Admin   |
 | **kasir** | **kasir** | Kasir   |
 
----
-
-## Struktur Folder
+---## Struktur Folder
+```
 .
 ├── admin/              # Berisi file-file utama untuk halaman admin (dasbor, menu, dll.)
 │   ├── index.php       # Halaman dasbor utama
@@ -144,8 +143,10 @@ Anda dapat menggunakan akun default di bawah ini untuk masuk ke sistem setelah i
 ├── auth/               # Skrip untuk proses autentikasi (login, logout, registrasi)
 ├── config/             # File konfigurasi, termasuk koneksi.php
 ├── index.php           # Halaman login utama
-├── db_resto.sql        # File dump SQL untuk struktur dan data awal database
+├── db_soto_betawi.sql        # File dump SQL untuk struktur dan data awal database
 └── README.md           # File dokumentasi yang sedang Anda baca
+```
+
 
 ## Kontribusi
 
