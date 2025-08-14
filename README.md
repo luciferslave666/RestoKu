@@ -133,7 +133,7 @@ Anda dapat menggunakan akun default di bawah ini untuk masuk ke sistem setelah i
 | **admin** | **admin** | Admin   |
 | **kasir** | **kasir** | Kasir   |
 
----## Struktur Folder
+## Struktur Folder
 ```
 .
 ├── admin/              # Berisi file-file utama untuk halaman admin (dasbor, menu, dll.)
